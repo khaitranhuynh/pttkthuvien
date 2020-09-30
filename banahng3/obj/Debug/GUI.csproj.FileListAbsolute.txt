@@ -1,0 +1,16 @@
+D:\phantichthietke\doanth\banahng3\banahng3\bin\Debug\banahng3.exe
+D:\phantichthietke\doanth\banahng3\banahng3\bin\Debug\banahng3.pdb
+D:\phantichthietke\doanth\banahng3\banahng3\bin\Debug\BUS_bh.dll
+D:\phantichthietke\doanth\banahng3\banahng3\bin\Debug\view.dll
+D:\phantichthietke\doanth\banahng3\banahng3\bin\Debug\DAL.dll
+D:\phantichthietke\doanth\banahng3\banahng3\bin\Debug\BUS_bh.pdb
+D:\phantichthietke\doanth\banahng3\banahng3\bin\Debug\view.pdb
+D:\phantichthietke\doanth\banahng3\banahng3\bin\Debug\DAL.pdb
+D:\phantichthietke\doanth\banahng3\banahng3\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\phantichthietke\doanth\banahng3\banahng3\obj\Debug\banahng3.Form1.resources
+D:\phantichthietke\doanth\banahng3\banahng3\obj\Debug\banahng3.GDBanHang.resources
+D:\phantichthietke\doanth\banahng3\banahng3\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\phantichthietke\doanth\banahng3\banahng3\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\phantichthietke\doanth\banahng3\banahng3\obj\Debug\GUI.csproj.CopyComplete
+D:\phantichthietke\doanth\banahng3\banahng3\obj\Debug\banahng3.exe
+D:\phantichthietke\doanth\banahng3\banahng3\obj\Debug\banahng3.pdb

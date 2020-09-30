@@ -1,0 +1,11 @@
+D:\phantichthietke\doanth\banahng3\BUS_bh\bin\Debug\BUS_bh.dll
+D:\phantichthietke\doanth\banahng3\BUS_bh\bin\Debug\BUS_bh.pdb
+D:\phantichthietke\doanth\banahng3\BUS_bh\bin\Debug\DAL.dll
+D:\phantichthietke\doanth\banahng3\BUS_bh\bin\Debug\view.dll
+D:\phantichthietke\doanth\banahng3\BUS_bh\bin\Debug\DAL.pdb
+D:\phantichthietke\doanth\banahng3\BUS_bh\bin\Debug\view.pdb
+D:\phantichthietke\doanth\banahng3\BUS_bh\obj\Debug\BUS_bh.csprojAssemblyReference.cache
+D:\phantichthietke\doanth\banahng3\BUS_bh\obj\Debug\BUS_bh.csproj.CoreCompileInputs.cache
+D:\phantichthietke\doanth\banahng3\BUS_bh\obj\Debug\BUS_bh.csproj.CopyComplete
+D:\phantichthietke\doanth\banahng3\BUS_bh\obj\Debug\BUS_bh.dll
+D:\phantichthietke\doanth\banahng3\BUS_bh\obj\Debug\BUS_bh.pdb

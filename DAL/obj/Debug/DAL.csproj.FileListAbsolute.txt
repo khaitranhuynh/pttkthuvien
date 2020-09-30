@@ -1,0 +1,9 @@
+D:\phantichthietke\doanth\banahng3\DAL\bin\Debug\DAL.dll
+D:\phantichthietke\doanth\banahng3\DAL\bin\Debug\DAL.pdb
+D:\phantichthietke\doanth\banahng3\DAL\bin\Debug\view.dll
+D:\phantichthietke\doanth\banahng3\DAL\bin\Debug\view.pdb
+D:\phantichthietke\doanth\banahng3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\phantichthietke\doanth\banahng3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\phantichthietke\doanth\banahng3\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\phantichthietke\doanth\banahng3\DAL\obj\Debug\DAL.dll
+D:\phantichthietke\doanth\banahng3\DAL\obj\Debug\DAL.pdb
